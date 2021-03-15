@@ -10,7 +10,7 @@ https://www.w3schools.com/html/html_forms.asp
 
 // Clear the input and then type the 'firstname'/'lastname'
 // from the right row in 'form_data.csv'
-type firstname as [clear]`firstname`
-type lastname as [clear]`lastname`
+type firstname as [clear]`fname`
+type lastname as [clear]`lname`
 
 click submit
